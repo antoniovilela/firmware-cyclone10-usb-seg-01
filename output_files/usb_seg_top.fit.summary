@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Oct 09 00:53:29 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : usb_seg_top
+Top-level Entity Name : usb_seg_top
+Family : Cyclone 10 LP
+Device : 10CL016YU484C8G
+Timing Models : Final
+Total logic elements : 233 / 15,408 ( 2 % )
+    Total combinational functions : 225 / 15,408 ( 1 % )
+    Dedicated logic registers : 139 / 15,408 ( < 1 % )
+Total registers : 139
+Total pins : 15 / 341 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 0 / 516,096 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

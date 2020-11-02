@@ -1,0 +1,12 @@
+
+module uart_control (
+	input clk_sys,
+	input sys_reset_n,
+	input [7:0] uart_data
+);
+
+
+
+
+
+endmodule

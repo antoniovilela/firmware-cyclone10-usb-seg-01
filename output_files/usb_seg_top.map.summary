@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Oct 09 00:53:24 2020
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : usb_seg_top
+Top-level Entity Name : usb_seg_top
+Family : Cyclone 10 LP
+Total logic elements : 240
+    Total combinational functions : 225
+    Dedicated logic registers : 139
+Total registers : 139
+Total pins : 15
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
